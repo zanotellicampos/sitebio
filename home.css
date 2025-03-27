@@ -10,14 +10,14 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #f8d7da;
+    background-color: #f5aebd;
 }
 .logo {
     display: flex;
     align-items: center;
 }
 .logo img {
-    height: 50px;
+    height: 100px;
     margin-right: 10px;
 }
 nav a {
@@ -36,7 +36,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    background-color: #f5aebd;
     border-radius: 10px;
     margin: 20px;
     padding: 20px;
@@ -56,16 +56,16 @@ main {
     margin-top: 20px;
 }
 .links a {
-    background-color: white;
-    padding: 10px;
+    background-color: #f5aebd;
+    padding: 50px;
     border-radius: 5px;
-    margin: 5px;
+    margin: 20px;
     text-decoration: none;
     color: black;
 }
 footer {
-    background-color: #f8d7da;
+    background-color: #f5aebd;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 15px;
     font-size: 14px;
 }
